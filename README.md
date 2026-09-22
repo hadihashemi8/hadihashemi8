@@ -71,49 +71,5 @@ A modern web project focused on delivering a clean and responsive user experienc
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hadihashemi8&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadihashemi8&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hadihashemi8&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Next.js          ████████████████████  Building
-TypeScript       ████████████████████  Building
-React            ████████████████████  Building
-UI / UX          ████████████████░░░░  Improving
-Backend          ████████████░░░░░░░░  Learning
-DevOps           ██████████░░░░░░░░░░  Learning
-
-🤝 Let's Connect
-
-I'm always interested in discussing:
-
-Frontend development
-React & Next.js
-TypeScript
-UI/UX
-Web application architecture
-Interesting software projects
-<br /> <div align="center">
-Thanks for visiting my profile! ⭐
-</div>
-```
