@@ -19,13 +19,14 @@ with a strong focus on clean UI, performance and maintainable code.
 ## 👨‍💻 About Me
 
 I'm a frontend developer focused on building modern web applications
-using React, Next.js and TypeScript.
+with **React, Next.js and TypeScript**.
 
-I enjoy turning ideas and designs into clean, responsive and
-high-performance user interfaces.
+I enjoy transforming ideas and designs into clean, responsive and
+high-performance user interfaces with a focus on scalability,
+maintainability and user experience.
 
 - 🚀 Building modern web applications
-- ⚛️ Working mainly with React & Next.js
+- ⚛️ Specialized in React & Next.js
 - 🟦 Writing scalable applications with TypeScript
 - 🎨 Interested in UI/UX and design systems
 - 🧩 Focused on reusable and maintainable code
@@ -49,11 +50,59 @@ high-performance user interfaces.
 
 ---
 
+## 🌐 Live Projects
+
+Projects that are currently deployed and available online.
+
+### 💳 CanPay
+
+Payment-oriented web application with a modern and responsive interface.
+
+**Technologies**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
+
+🔗 **Source:** [GitHub Repository](https://github.com/hadihashemi8/canpay)
+
+---
+
+### 🏢 Moein Farev Center
+
+Modern business website focused on a clean UI, responsive design
+and a smooth user experience.
+
+**Technologies**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
+
+🔗 **Source:** [GitHub Repository](https://github.com/hadihashemi8/moeinfarevcenter)
+
+---
+
+### 🚀 Your Next Project
+
+Add your next deployed project here.
+
+**Technologies**
+
+`Next.js` `React` `TypeScript`
+
+🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
+
+🔗 **Source:** [GitHub Repository](YOUR_GITHUB_LINK)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 💳 CanPay
 
-A modern payment-oriented web application built with modern frontend technologies.
+A modern payment-oriented web application built with
+Next.js, React and TypeScript.
 
 **Tech:** Next.js · React · TypeScript
 
@@ -63,7 +112,8 @@ A modern payment-oriented web application built with modern frontend technologie
 
 ### 🏢 Moein Farev Center
 
-A modern web project focused on delivering a clean and responsive user experience.
+A modern web project focused on delivering a clean,
+responsive and user-friendly experience.
 
 **Tech:** Next.js · React · TypeScript
 
