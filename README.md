@@ -48,55 +48,6 @@ maintainability and user experience.
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,npm" />
 </p>
 
----
-
-## 🌐 Live Projects
-
-Projects that are currently deployed and available online.
-
-### 💳 CanPay
-
-Payment-oriented web application with a modern and responsive interface.
-
-**Technologies**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
-
-🔗 **Source:** [GitHub Repository](https://github.com/hadihashemi8/canpay)
-
----
-
-### 🏢 Moein Farev Center
-
-Modern business website focused on a clean UI, responsive design
-and a smooth user experience.
-
-**Technologies**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
-
-🔗 **Source:** [GitHub Repository](https://github.com/hadihashemi8/moeinfarevcenter)
-
----
-
-### 🚀 Your Next Project
-
-Add your next deployed project here.
-
-**Technologies**
-
-`Next.js` `React` `TypeScript`
-
-🔗 **Live:** [Visit Website](YOUR_LIVE_LINK)
-
-🔗 **Source:** [GitHub Repository](YOUR_GITHUB_LINK)
-
----
-
 ## 🚀 Featured Projects
 
 ### 💳 CanPay
