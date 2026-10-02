@@ -143,13 +143,11 @@ digital experience.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏢 Moein Farev Center</h3>
+<h3 align="center">⚒️ chakkosh version 2</h3>
 
 <div align="center">
 
-A modern web project focused on delivering
-a clean, responsive and user-friendly
-digital experience.
+A modern full-stack web application built with Next.js and React, designed with a responsive UI and integrated frontend/backend architecture.
 
 <br />
 
@@ -163,7 +161,7 @@ digital experience.
 <br />
 <br />
 
-<a href="https://github.com/hadihashemi8/moeinfarevcenter">
+<a href="https://github.com/hadihashemi8/chakkosh_v2">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
