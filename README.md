@@ -136,6 +136,36 @@ digital experience.
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">🏢 Moein Farev Center</h3>
+
+<div align="center">
+
+A modern web project focused on delivering
+a clean, responsive and user-friendly
+digital experience.
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts" />
+
+<br />
+<br />
+
+<b>Next.js · React · TypeScript</b>
+
+<br />
+<br />
+
+<a href="https://github.com/hadihashemi8/moeinfarevcenter">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
